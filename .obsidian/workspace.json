@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "88f1e0603dd06e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89612cd4c9407316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13e24d5a87910cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADR/9 Выбор системы контроля версий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba537307f8609b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADR/9 Выбор системы контроля версий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25aaf42be2595f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c181e2d497e27f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c287b6a558dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3811bbd419452295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8e7c2faf1d26cb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 484.5
+  },
+  "right": {
+    "id": "cee5c845336acd9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e18e6e09b09ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca26d46445429dc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADR/9 Выбор системы контроля версий.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5a9cc90af187ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ADR/9 Выбор системы контроля версий.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d58f1d586aa69c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13ba3aabf020a071",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ADR/9 Выбор системы контроля версий.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ba537307f8609b6e",
+  "lastOpenFiles": [
+    "ADR/8 Выбор модели и методологии разработки.md",
+    "ADR/7 Выбор протокола аутентификации и авторизации.md",
+    "ADR/6 Выбор ORM.md",
+    "ADR/9 Выбор системы контроля версий.md",
+    "ADR/5 Выбор системы хранения данных.md",
+    "ADR/4 Выбор инструментов автоматического тестирования API.md",
+    "ADR/3 Выбор технологии программирования клиентского приложения.md",
+    "ADR/2 Выбор технологии программирования серверной части.md",
+    "ADR/1 Выбор архитектуры.md",
+    "PPO/jopa.md",
+    "PPO",
+    "ADR",
+    "ADR",
+    "Без названия",
+    "Новая папка",
+    "Выбор технологии программирования клиентского приложения.md",
+    "Выбор инструментов автоматического тестирования.md",
+    "Выбор архитектуры.md",
+    "Выбор технологии программирования серверной части.md",
+    "Без названия.canvas",
+    "Без названия 1.md"
+  ]
+}
